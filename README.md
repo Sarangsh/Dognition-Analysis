@@ -1,5 +1,5 @@
 # 🐕 Dognition-Analysis
-Analyzing the dognition dataset to uncover trends and develop insights into how Dognition can incentivize users into taking more personality assessment testss
+Analyzing the dognition dataset to uncover trends and develop insights into how Dognition can incentivize users into taking more personality assessment tests
 
 ## 📈 Problem Statement
 - Dognition is a company that helps dog owners around the world to learn more about their dogs.
